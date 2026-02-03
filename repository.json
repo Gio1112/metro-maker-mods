@@ -9,28 +9,28 @@
       "files": [
         {
           "name": "manifest.json",
-          "url": "https://raw.githubusercontent.com/giorgiodabest/metro-maker-mods/main/mods/railway-overlay/manifest.json"
+          "url": "https://raw.githubusercontent.com/Gio1112/metro-maker-mods/main/mods/railway-overlay/manifest.json"
         },
         {
           "name": "index.js",
-          "url": "https://raw.githubusercontent.com/giorgiodabest/metro-maker-mods/main/mods/railway-overlay/index.js"
+          "url": "https://raw.githubusercontent.com/Gio1112/metro-maker-mods/main/mods/railway-overlay/index.js"
         }
       ]
     },
     {
-      "id": "com.subwaybuilder.mod-store",
-      "name": "Mod Store",
-      "description": "Browse and install mods from the community repository.",
+      "id": "com.subwaybuilder.test-mod",
+      "name": "Test Mod",
+      "description": "A simple test mod to verify the mod store works.",
       "version": "1.0.0",
       "author": "giorgiodabest",
       "files": [
         {
           "name": "manifest.json",
-          "url": "https://raw.githubusercontent.com/giorgiodabest/metro-maker-mods/main/mods/mod-store/manifest.json"
+          "url": "https://raw.githubusercontent.com/Gio1112/metro-maker-mods/main/mods/test-mod/manifest.json"
         },
         {
           "name": "index.js",
-          "url": "https://raw.githubusercontent.com/giorgiodabest/metro-maker-mods/main/mods/mod-store/index.js"
+          "url": "https://raw.githubusercontent.com/Gio1112/metro-maker-mods/main/mods/test-mod/index.js"
         }
       ]
     }
