@@ -1,0 +1,10 @@
+{
+    "id": "com.subwaybuilder.railway-overlay",
+    "name": "Real Railway Overlay",
+    "description": "Displays real-world railways from OpenStreetMap. Import via file upload or text paste. Data is cached for each city so you don't need to reload every time!",
+    "version": "1.0.0",
+    "author": {
+        "name": "giorgiodabest"
+    },
+    "main": "index.js"
+}
