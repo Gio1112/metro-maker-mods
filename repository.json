@@ -1,0 +1,38 @@
+{
+  "mods": [
+    {
+      "id": "com.subwaybuilder.railway-overlay",
+      "name": "Real Railway Overlay",
+      "description": "Displays real-world railways from OpenStreetMap.",
+      "version": "5.2.0",
+      "author": "giorgiodabest",
+      "files": [
+        {
+          "name": "manifest.json",
+          "url": "https://raw.githubusercontent.com/giorgiodabest/metro-maker-mods/main/mods/railway-overlay/manifest.json"
+        },
+        {
+          "name": "index.js",
+          "url": "https://raw.githubusercontent.com/giorgiodabest/metro-maker-mods/main/mods/railway-overlay/index.js"
+        }
+      ]
+    },
+    {
+      "id": "com.subwaybuilder.mod-store",
+      "name": "Mod Store",
+      "description": "Browse and install mods from the community repository.",
+      "version": "1.0.0",
+      "author": "giorgiodabest",
+      "files": [
+        {
+          "name": "manifest.json",
+          "url": "https://raw.githubusercontent.com/giorgiodabest/metro-maker-mods/main/mods/mod-store/manifest.json"
+        },
+        {
+          "name": "index.js",
+          "url": "https://raw.githubusercontent.com/giorgiodabest/metro-maker-mods/main/mods/mod-store/index.js"
+        }
+      ]
+    }
+  ]
+}
