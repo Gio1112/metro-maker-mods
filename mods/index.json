@@ -2,6 +2,7 @@
   "schema_version": 1,
   "mods": [
     "transit-overlay", 
-    "citymapper-tool"
+    "citymapper-tool",
+    "subwaybuilder-regions"
   ]
 }
