@@ -2,6 +2,6 @@
   "schema_version": 1,
   "mods": [
     "transit-overlay", 
-    "citymapper"
+    "citymapper-tool"
   ]
 }
