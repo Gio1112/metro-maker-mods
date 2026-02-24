@@ -1,0 +1,14 @@
+{
+    "id": "com.subwaybuilder.citymapper",
+    "name": "CityMapper - Railway Overlay",
+    "description": "Real-world railways with texture-based visual effects. Dotted lines for tunnels, solid lines for bridges, dotted lines for abandoned tracks. Data cached per city.",
+    "version": "2.0.0",
+    "author": {
+        "name": "giorgiodabest",
+        "link": "https://github.com/giorgiodabest"
+    },
+    "repository": "https://github.com/giorgiodabest/subway-builder-citymapper",
+    "main": "index.js",
+    "keywords": ["railway", "osm", "overlay", "railway-lines", "cities"],
+    "changelog": "v2.0: Texture-based visual effects, performance improvements, GitHub installation"
+}
