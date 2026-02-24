@@ -6,6 +6,5 @@
   "author": "giorgiodabest",
   "description": "Real-world railways with texture-based visual effects. Dotted lines for tunnels, solid lines for bridges, dotted lines for abandoned tracks. Data cached per city.",
   "source": "https://github.com/Gio1112/subway-builder-citymapper",
-  "tags": ["realism", "maps"],
-
+  "tags": ["realism", "maps"]
 }
