@@ -1,0 +1,10 @@
+{
+  "name": "Example Mod",
+  "version": "1.0.0",
+  "author": "Your Name",
+  "description": "This is an example mod. Replace this with your description.",
+  "license": "MIT",
+  "keywords": ["example", "template"],
+  "subwayBuilderVersion": ">=1.0.0",
+  "cover": "cover.png"
+}
