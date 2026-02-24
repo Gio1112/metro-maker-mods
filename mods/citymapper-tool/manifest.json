@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "citymapper",
+  "name": "Citymapper",
+  "version": "1.0.0",
+  "author": "giorgiodabest",
+  "description": "Real-world railways with texture-based visual effects. Dotted lines for tunnels, solid lines for bridges, dotted lines for abandoned tracks. Data cached per city.",
+  "source": "https://github.com/Gio1112/metro-maker-mods/tree/main/mods/citymapper",
+  "tags": ["realism", "maps"],
+
+}
