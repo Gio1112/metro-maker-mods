@@ -1,4 +1,4 @@
 {
   "schema_version": 1,
-  "mods": ["transit-overlay", "citymapper-tool", "distanceCircles"]
+  "mods": ["transit-overlay", "citymapper", "distanceCircles"]
 }
