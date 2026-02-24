@@ -1,7 +1,7 @@
 {
   "id": "com.ahkimn.regions",
   "name": "Regions",
-  "description": "Add support for displaying/analyzing regional data within SubwayBuilder",
+  "description": "Add support for displaying and analyzing regional data within SubwayBuilder",
   "version": "0.3.3",
   "author": {
     "name": "ahkimn",
