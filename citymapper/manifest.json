@@ -5,12 +5,20 @@
     "version": "2.0.0",
     "author": {
         "name": "giorgiodabest",
-        "link": "https://github.com/Gio1112",
+        "url": "https://github.com/Gio1112"
     },
-    "repository": "https://github.com/giorgiodabest/subway-builder-citymapper",
     "main": "index.js",
-    "keywords": ["railway", "osm", "overlay", "railway-lines", "cities"],
-    "changelog": "v2.0: Texture-based visual effects, performance improvements, GitHub installation",
-
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Gio1112"
+    },
+    "keywords": [
+        "railway",
+        "osm",
+        "overlay",
+        "railway-lines",
+        "cities"
+    ],
+    "subwayBuilderVersion": "1.0.0",
+    "changelog": "v2.0: Texture-based visual effects, performance improvements, GitHub installation"
 }
-
