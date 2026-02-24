@@ -8,12 +8,12 @@
     "url": "https://github.com/ahkimn"
   },
   "main": "index.js",
+  "cover": "Subway_Builder_oTfFu8c8j4.png",
   "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/ahkimn/subwaybuilder-regions"
   },
   "keywords": ["subway-builder", "mod", "trains"],
-  "subwayBuilderVersion": ">=1.1.0",
-  "cover": "Subway_Builder_oTfFu8c8j4.png"
+  "subwayBuilderVersion": ">=1.1.0"
 }
