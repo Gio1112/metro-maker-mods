@@ -1,0 +1,15 @@
+
+{
+  "schema_version": 1,
+  "id": "transit-overlay",
+  "name": "Transit Overlay",
+  "author": "BarKuperman",
+  "description": "This mod adds real-world transit data as an interactive overlay to Subway Builder, allowing you to visualize actual subway, train, and tram networks while you build your own systems.",
+  "version": "1.3",
+  "tags": ["map", "cosmetic"],
+  "source": "https://github.com/BarKuperman/transit-overlay-subway-builder-mod/releases/latest",
+  "update": {
+    "type": "github",
+    "repo": "BarKuperman/transit-overlay-subway-builder-mod"
+  }
+}
