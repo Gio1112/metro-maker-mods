@@ -4,7 +4,7 @@
   "name": "Regions",
   "version": "1.0.0",
   "author": "ahkimn",
-  "description": "SubwayBuilder Regions allows users to import real-world geographic regions (e.g. ZIP codes, counties, wards) into the game SubwayBuilder, The mod adds a visualization layer on top of the in-game map as well as additional panels for region-based statistics such as population, commuter flows, and infrastructure.",
+  "description": "SubwayBuilder Regions allows users to import real-world geographic regions (e.g. ZIP codes, counties, wards) into the game SubwayBuilder. The mod adds a visualization layer on top of the in-game map as well as additional panels for region-based statistics such as population, commuter flows, and infrastructure.",
   "source": "https://github.com/ahkimn/subwaybuilder-regions",
   "tags": ["realism", "data management"],
   "gallery": [
