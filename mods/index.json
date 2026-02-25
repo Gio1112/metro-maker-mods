@@ -4,6 +4,7 @@
     "transit-overlay", 
     "citymapper-tool",
     "subwaybuilder-regions",
-    "dan-trains"
+    "dan-trains",
+    "addTrains"
   ]
 }
