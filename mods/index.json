@@ -3,6 +3,7 @@
   "mods": [
     "transit-overlay", 
     "citymapper-tool",
-    "subwaybuilder-regions"
+    "subwaybuilder-regions",
+    "dan-trains"
   ]
 }
