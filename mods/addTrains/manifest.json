@@ -1,0 +1,16 @@
+
+{
+  "schema_version": 1,
+  "id": "addTrains",
+  "name": "addTrains",
+  "version": "1.0.0",
+  "author": "DanielD1909 + Mhoeller",
+  "description": "This mod extends the Subway Builder Modding API by adding a comprehensive collection of real-world train types, organized into categories, with a full-featured UI for enabling/disabling, editing, and creating custom train types.The package is meant for players who want more realistic regional/commuter rail and tram options for their custom maps.",
+  "source": "https://github.com/mhmoeller/subwaybuilder-addtrains",
+  "tags": ["trains", "cosmetic", "train types"],
+  "gallery": [],
+  "update": {
+    "type": "github",
+    "repo": "mhmoeller/subwaybuilder-addtrains"
+  }
+}
