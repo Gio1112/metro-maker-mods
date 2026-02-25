@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "mods": [
-    "Transit Overlay", 
+    "transit-overlay", 
     "subwaybuilder-regions",
     "dan-trains",
     "addTrains"
