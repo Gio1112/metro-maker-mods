@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "dan-trains",
+  "name": "Dan Trains",
+  "version": "1.0.0",
+  "author": "DanielD1909",
+  "description": "Adds 300 new trains from across the world to Subway Builder. Requires the addTrains mod by mhmoller.",
+  "source": "https://github.com/DanielD1909/danTrains",
+  "tags": ["trains", "cosmetic"],
+  "gallery": [],
+  "update": {
+    "type": "github",
+    "repo": "DanielD1909/danTrains"
+  }
+}
